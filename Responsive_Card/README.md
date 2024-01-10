@@ -2,10 +2,6 @@
 
 This is a simple front-end project demonstrating a responsive card-based website using HTML, CSS, and JPG images.
 
-## Preview
-
-https://shivtejsunildeshmukh.github.io/Front-End/Responsive_Card/index.html
-
 ## Table of Contents
 
 - [Features](#features)
