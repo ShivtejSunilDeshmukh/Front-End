@@ -4,7 +4,7 @@ This is a simple front-end project demonstrating a responsive card-based website
 
 ## Preview
 
-https://shivtejsunildeshmukh.github.io/Front-End/Responsive Card/index.html
+https://shivtejsunildeshmukh.github.io/Front-End/Responsive_Card/index.html
 
 ## Table of Contents
 
