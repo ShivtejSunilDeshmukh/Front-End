@@ -10,6 +10,7 @@ https://shivtejsunildeshmukh.github.io/Front-End/Blog/index.html
 
 - [Features](#features)
 
+  
 ## Features
 
 - Minimalistic and clean design
