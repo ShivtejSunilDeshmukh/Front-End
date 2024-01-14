@@ -1,7 +1,6 @@
 document.getElementById('myForm').addEventListener('submit', function (event) {
     let isValid = true;
 
-    // Username validation
     const usernameInput = document.getElementById('username');
     const usernameError = document.getElementById('usernameError');
     if (usernameInput.value.length < 5) {
@@ -11,7 +10,6 @@ document.getElementById('myForm').addEventListener('submit', function (event) {
         usernameError.textContent = '';
     }
 
-    // Email validation
     const emailInput = document.getElementById('email');
     const emailError = document.getElementById('emailError');
     const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -22,7 +20,6 @@ document.getElementById('myForm').addEventListener('submit', function (event) {
         emailError.textContent = '';
     }
 
-    // Password validation
     const passwordInput = document.getElementById('password');
     const passwordError = document.getElementById('passwordError');
     if (passwordInput.value.length < 8) {
@@ -39,7 +36,6 @@ document.getElementById('myForm').addEventListener('submit', function (event) {
 document.getElementById('myForm').addEventListener('submit', function (event) {
     let isValid = true;
 
-    // Username validation
     const usernameInput = document.getElementById('username');
     const usernameError = document.getElementById('usernameError');
     if (usernameInput.value.length < 5) {
@@ -49,7 +45,6 @@ document.getElementById('myForm').addEventListener('submit', function (event) {
         usernameError.textContent = '';
     }
 
-    // Email validation
     const emailInput = document.getElementById('email');
     const emailError = document.getElementById('emailError');
     const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
